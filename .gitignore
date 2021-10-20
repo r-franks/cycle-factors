@@ -6,6 +6,9 @@ bin-release/
 
 # Other files and folders
 .settings/
+*.zip
+application.windows32/
+application.windows64/
 
 # Executables
 *.swf
